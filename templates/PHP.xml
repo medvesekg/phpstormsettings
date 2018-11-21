@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="test" value="/** @test */&#10;public function $METHOD$()&#10;{&#10;&#10;    $END$&#10;}" description="PHPUnit test" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="/** @test */&#10;function $METHOD$()&#10;{&#10;&#10;    $END$&#10;}" description="PHPUnit test" toReformat="false" toShortenFQNames="true">
     <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
