@@ -4,7 +4,6 @@
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="php___jb_tmp___" type="PLAIN_TEXT" />
       <mapping ext="php___jb_old___" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
