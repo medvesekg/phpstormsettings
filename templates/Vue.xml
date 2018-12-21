@@ -1,0 +1,17 @@
+<templateSet group="Vue">
+  <template name="m" value="methods: {&#10;    $END$&#10;}," description="methods" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
+  <template name="p" value="props: [$END$]," description="props" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
+  <template name="c" value="computed: {&#10;    $END$&#10;}," description="computed" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
+</templateSet>
