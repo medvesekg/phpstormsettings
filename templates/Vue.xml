@@ -15,7 +15,7 @@
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
     </context>
   </template>
-  <template name="d" value="data() {&#10;    return {&#10;        $END$&#10;    },&#10;}" description="data" toReformat="false" toShortenFQNames="true">
+  <template name="d" value="data() {&#10;    return {&#10;        $END$&#10;    }&#10;}," description="data" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
     </context>
