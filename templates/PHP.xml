@@ -5,7 +5,8 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
-  <template name="_c" value="public function __construct() &#10;{&#10;    $END$&#10;}" description="constructor" toReformat="false" toShortenFQNames="true">
+  <template name="_c" value="public function __construct($1$) &#10;{&#10;    $END$&#10;}" description="constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
     </context>
