@@ -7,8 +7,8 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="docker-compose://[C:\dev\docker\docker-compose.yml]:php-fpm/php" id="f22c6cdb-d1e8-47db-a642-98e7ebdccc50" name="Docker php-fpm" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="php-fpm" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true">
+      <interpreter home="docker-compose://[C:\dev\docker\docker-compose.yml]:phpstorm-php/php" id="f22c6cdb-d1e8-47db-a642-98e7ebdccc50" name="Docker php-fpm" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="phpstorm-php" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true">
           <dockerComposeConfigurationPaths>
             <item value="C:\dev\docker\docker-compose.yml" />
           </dockerComposeConfigurationPaths>
