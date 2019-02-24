@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ChangesView.AddUnversioned" />
+  <action id="Diagram.DeselectAll" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
+</keymap>
