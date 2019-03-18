@@ -10,6 +10,9 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="ShowContent" />
   <action id="XDebugger.MoveWatchDown" />
 </keymap>
