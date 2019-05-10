@@ -42,6 +42,9 @@
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="80" />
     <option name="SOFT_MARGINS" value="80" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="SOFT_MARGINS" value="80" />
