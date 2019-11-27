@@ -7,15 +7,16 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="888bab66-d1f6-4810-9dec-cc27a248831c" name="PHP 7.3" home="C:\laragon\bin\php\php-7.3.6-Win32-VC15-x64\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="888bab66-d1f6-4810-9dec-cc27a248831c" name="WIN PHP 7.2" home="C:\laragon\bin\php\php-7.2.19-Win32-VC15-x64\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="a6adeef4-ffb0-4ad8-b829-795861d293cf" name="PHP" home="C:\.bat\php.bat" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="C:\laragon\bin\php\php-7.3.6-Win32-VC15-x64\php-cgi.exe" php_cli="C:\laragon\bin\php\php-7.3.6-Win32-VC15-x64\php.exe" path_separator=";" version="7.3.6">
+      <interpreter name="WIN PHP 7.2">
+        <phpinfo binary_type="PHP" php_cgi="C:\laragon\bin\php\php-7.2.19-Win32-VC15-x64\php-cgi.exe" php_cli="C:\laragon\bin\php\php-7.2.19-Win32-VC15-x64\php.exe" path_separator=";" version="7.2.19">
           <additional_php_ini />
-          <configuration_file>C:\laragon\bin\php\php-7.3.6-Win32-VC15-x64\php.ini</configuration_file>
+          <configuration_file>C:\laragon\bin\php\php-7.2.19-Win32-VC15-x64\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:/laragon/etc/php/pear" />
           </configuration_options>
@@ -33,7 +34,6 @@
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
-            <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="gd" />
@@ -48,7 +48,6 @@
             <extension name="openssl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
             <extension name="readline" />
             <extension name="session" />
             <extension name="standard" />
